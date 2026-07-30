@@ -16,6 +16,7 @@ langchain-mcp-adapters
 mcp
 streamlit
 chroma
+chroma
 langchain-huggingface
 huggingface_hub
 sentence-transformers
